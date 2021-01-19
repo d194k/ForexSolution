@@ -1,0 +1,6 @@
+{
+    "ForexApiBaseUrl":"http://localhost:5000/forex/api/",
+    "CurrencyConversionEndpoint": "exchange",
+    "RateHistoryEndpoint": "ratehistory"
+
+}
